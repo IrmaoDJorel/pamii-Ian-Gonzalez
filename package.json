@@ -1,0 +1,23 @@
+{
+  "name": "pamii-ian-gonzalez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrmaoDJorel/pamii-ian-gonzalez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrmaoDJorel/pamii-ian-gonzalez/issues"
+  },
+  "homepage": "https://github.com/IrmaoDJorel/pamii-ian-gonzalez#readme",
+  "dependencies": {
+    "expo": "^52.0.38"
+  }
+}
