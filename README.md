@@ -22,12 +22,12 @@ aula  05/08/2025
    ```bash
    cd {Diretório desejado}
    # Exemplo:
-   cd /home/adilson/clone
+   cd /home/ian/clone
    ```
 
 3. Execute:
    ```bash
-   git clone https://github.com/Adilson-kina/PAMII-Adilson-Kina.git
+   git clone https://github.com/IrmaoDJorel/pamii-Ian-Gonzalez.git
    ```
 
 ---
