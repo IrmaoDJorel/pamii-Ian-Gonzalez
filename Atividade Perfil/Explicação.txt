@@ -1,0 +1,6 @@
+Foi escolhido essa tela pois é o escolpo de uma parte do meu TCC
+Funções:
+	Botão logout no canto superior direito
+	Tela mostra foto de perfil; nome de usuário; email; telefone
+	Ícones de lápis possibilitam edição das informações
+	Botão "Atualizar" que salva as edições do usuário
